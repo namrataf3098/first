@@ -5,7 +5,7 @@ from math import factorial
 
 
 root = tkinter.Tk()
-root.title('by@NAMRATA - Calculator')
+root.title('by@NAMRATA_F-Calculator')
 
 #It keeps the track of current position on the input text field
 i = 0
